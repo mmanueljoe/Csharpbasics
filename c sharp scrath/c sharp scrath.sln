@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c sharp scrath", "c sharp scrath\c sharp scrath.csproj", "{8FCB6E29-1B02-4BE5-87E2-DDA57F25B17A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c sharp class", "..\c sharp class\c sharp class\c sharp class.csproj", "{8081AE94-E85B-4F85-83C3-D14D74A95093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "methods or functions", "..\methods or functions\methods or functions.csproj", "{39EF8FCC-B041-4F77-8FF9-A1BB221CB50E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FCB6E29-1B02-4BE5-87E2-DDA57F25B17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FCB6E29-1B02-4BE5-87E2-DDA57F25B17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FCB6E29-1B02-4BE5-87E2-DDA57F25B17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FCB6E29-1B02-4BE5-87E2-DDA57F25B17A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8081AE94-E85B-4F85-83C3-D14D74A95093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8081AE94-E85B-4F85-83C3-D14D74A95093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8081AE94-E85B-4F85-83C3-D14D74A95093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8081AE94-E85B-4F85-83C3-D14D74A95093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39EF8FCC-B041-4F77-8FF9-A1BB221CB50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EF8FCC-B041-4F77-8FF9-A1BB221CB50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EF8FCC-B041-4F77-8FF9-A1BB221CB50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EF8FCC-B041-4F77-8FF9-A1BB221CB50E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

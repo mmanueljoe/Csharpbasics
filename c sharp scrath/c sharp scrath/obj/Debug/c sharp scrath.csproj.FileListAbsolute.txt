@@ -1,0 +1,12 @@
+C:\Users\MY BOSS\Desktop\js\c sharp scrath\c sharp scrath\bin\Debug\c sharp scrath.exe.config
+C:\Users\MY BOSS\Desktop\js\c sharp scrath\c sharp scrath\bin\Debug\c sharp scrath.exe
+C:\Users\MY BOSS\Desktop\js\c sharp scrath\c sharp scrath\bin\Debug\c sharp scrath.pdb
+C:\Users\MY BOSS\Desktop\js\c sharp scrath\c sharp scrath\obj\Debug\c sharp scrath.csprojResolveAssemblyReference.cache
+C:\Users\MY BOSS\Desktop\js\c sharp scrath\c sharp scrath\obj\Debug\c sharp scrath.exe
+C:\Users\MY BOSS\Desktop\js\c sharp scrath\c sharp scrath\obj\Debug\c sharp scrath.pdb
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\c sharp scrath\c sharp scrath\bin\Debug\c sharp scrath.exe.config
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\c sharp scrath\c sharp scrath\obj\Debug\c sharp scrath.exe
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\c sharp scrath\c sharp scrath\obj\Debug\c sharp scrath.pdb
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\c sharp scrath\c sharp scrath\bin\Debug\c sharp scrath.exe
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\c sharp scrath\c sharp scrath\bin\Debug\c sharp scrath.pdb
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\c sharp scrath\c sharp scrath\obj\Debug\c sharp scrath.csprojResolveAssemblyReference.cache

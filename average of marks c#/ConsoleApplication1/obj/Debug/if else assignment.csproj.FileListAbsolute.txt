@@ -1,0 +1,12 @@
+C:\Users\MY BOSS\Desktop\js\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\MY BOSS\Desktop\js\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\MY BOSS\Desktop\js\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\MY BOSS\Desktop\js\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\MY BOSS\Desktop\js\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\MY BOSS\Desktop\js\ConsoleApplication1\ConsoleApplication1\obj\Debug\if else assignment.csprojResolveAssemblyReference.cache
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\ConsoleApplication1\ConsoleApplication1\obj\Debug\if else assignment.csprojResolveAssemblyReference.cache
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\average of marks c#\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\average of marks c#\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe

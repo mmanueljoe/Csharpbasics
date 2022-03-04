@@ -1,0 +1,5 @@
+C:\Users\MY BOSS\Desktop\js\my self c sharp\my self c sharp\bin\Debug\my self c sharp.exe.config
+C:\Users\MY BOSS\Desktop\js\my self c sharp\my self c sharp\bin\Debug\my self c sharp.exe
+C:\Users\MY BOSS\Desktop\js\my self c sharp\my self c sharp\bin\Debug\my self c sharp.pdb
+C:\Users\MY BOSS\Desktop\js\my self c sharp\my self c sharp\obj\Debug\my self c sharp.exe
+C:\Users\MY BOSS\Desktop\js\my self c sharp\my self c sharp\obj\Debug\my self c sharp.pdb

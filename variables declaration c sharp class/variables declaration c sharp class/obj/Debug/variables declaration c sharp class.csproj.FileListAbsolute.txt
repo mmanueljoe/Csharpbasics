@@ -1,0 +1,6 @@
+C:\Users\MY BOSS\Desktop\js\variables declaration c sharp class\variables declaration c sharp class\bin\Debug\variables declaration c sharp class.exe.config
+C:\Users\MY BOSS\Desktop\js\variables declaration c sharp class\variables declaration c sharp class\bin\Debug\variables declaration c sharp class.exe
+C:\Users\MY BOSS\Desktop\js\variables declaration c sharp class\variables declaration c sharp class\bin\Debug\variables declaration c sharp class.pdb
+C:\Users\MY BOSS\Desktop\js\variables declaration c sharp class\variables declaration c sharp class\obj\Debug\variables declaration c sharp class.exe
+C:\Users\MY BOSS\Desktop\js\variables declaration c sharp class\variables declaration c sharp class\obj\Debug\variables declaration c sharp class.pdb
+C:\Users\MY BOSS\Desktop\js\variables declaration c sharp class\variables declaration c sharp class\obj\Debug\variables declaration c sharp class.csprojResolveAssemblyReference.cache

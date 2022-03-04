@@ -1,0 +1,12 @@
+C:\Users\MY BOSS\Desktop\js\pseucode assigment\pseucode assigment\bin\Debug\pseucode assigment.exe.config
+C:\Users\MY BOSS\Desktop\js\pseucode assigment\pseucode assigment\bin\Debug\pseucode assigment.exe
+C:\Users\MY BOSS\Desktop\js\pseucode assigment\pseucode assigment\bin\Debug\pseucode assigment.pdb
+C:\Users\MY BOSS\Desktop\js\pseucode assigment\pseucode assigment\obj\Debug\pseucode assigment.csprojResolveAssemblyReference.cache
+C:\Users\MY BOSS\Desktop\js\pseucode assigment\pseucode assigment\obj\Debug\pseucode assigment.exe
+C:\Users\MY BOSS\Desktop\js\pseucode assigment\pseucode assigment\obj\Debug\pseucode assigment.pdb
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\pseucode assigment\pseucode assigment\bin\Debug\pseucode assigment.exe.config
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\pseucode assigment\pseucode assigment\obj\Debug\pseucode assigment.exe
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\pseucode assigment\pseucode assigment\obj\Debug\pseucode assigment.pdb
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\pseucode assigment\pseucode assigment\bin\Debug\pseucode assigment.exe
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\pseucode assigment\pseucode assigment\bin\Debug\pseucode assigment.pdb
+C:\Users\MY BOSS\Desktop\C-Sharp Basics\pseucode assigment\pseucode assigment\obj\Debug\pseucode assigment.csprojResolveAssemblyReference.cache

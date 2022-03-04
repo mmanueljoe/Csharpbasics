@@ -1,0 +1,6 @@
+C:\Users\MY BOSS\Desktop\js\c sharp class\c sharp class\bin\Debug\c sharp class.exe.config
+C:\Users\MY BOSS\Desktop\js\c sharp class\c sharp class\bin\Debug\c sharp class.exe
+C:\Users\MY BOSS\Desktop\js\c sharp class\c sharp class\bin\Debug\c sharp class.pdb
+C:\Users\MY BOSS\Desktop\js\c sharp class\c sharp class\obj\Debug\c sharp class.csprojResolveAssemblyReference.cache
+C:\Users\MY BOSS\Desktop\js\c sharp class\c sharp class\obj\Debug\c sharp class.exe
+C:\Users\MY BOSS\Desktop\js\c sharp class\c sharp class\obj\Debug\c sharp class.pdb

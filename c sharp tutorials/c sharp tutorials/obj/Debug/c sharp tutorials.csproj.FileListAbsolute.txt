@@ -1,0 +1,6 @@
+C:\Users\MY BOSS\Desktop\js\c sharp tutorials\c sharp tutorials\bin\Debug\c sharp tutorials.exe.config
+C:\Users\MY BOSS\Desktop\js\c sharp tutorials\c sharp tutorials\bin\Debug\c sharp tutorials.exe
+C:\Users\MY BOSS\Desktop\js\c sharp tutorials\c sharp tutorials\bin\Debug\c sharp tutorials.pdb
+C:\Users\MY BOSS\Desktop\js\c sharp tutorials\c sharp tutorials\obj\Debug\c sharp tutorials.csprojResolveAssemblyReference.cache
+C:\Users\MY BOSS\Desktop\js\c sharp tutorials\c sharp tutorials\obj\Debug\c sharp tutorials.exe
+C:\Users\MY BOSS\Desktop\js\c sharp tutorials\c sharp tutorials\obj\Debug\c sharp tutorials.pdb
