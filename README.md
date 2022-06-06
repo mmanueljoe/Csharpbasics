@@ -1,2 +1,2 @@
 # Csharpbasics
-This Repository Contains The Csharp Basic commands 
+This Repository Contains the basics of C#
